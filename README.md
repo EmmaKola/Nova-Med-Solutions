@@ -1,7 +1,5 @@
 # Nova Med Solutions Performance Report
 
-![Nova Med Solutions pharmaceutical operations](reports/figures/novamed-company.png)
-
 ## Client Background
 
 Nova Med Solutions is a pharmaceutical distributor supporting hospitals, smaller distributors, resellers, and direct users across Europe and other global markets. The business provides access to essential medications and relies on dependable supply, strong customer relationships, and informed product planning to maintain commercial performance.
@@ -9,8 +7,6 @@ Nova Med Solutions is a pharmaceutical distributor supporting hospitals, smaller
 The company has collected sales data covering revenue, profit, product performance, customer demographics, buyer type, and geography. This project analyzes that data to help Nova Med Solutions improve sales visibility, identify high-value customer segments, understand product profitability, and uncover market opportunities.
 
 Reporting to business stakeholders, the analysis focuses on translating sales and customer data into practical recommendations that can improve revenue growth, profitability, customer engagement, and operational decision-making.
-
-![Nova Med Solutions business context](reports/figures/about-the-business.png)
 
 ### Northstar Metrics
 
