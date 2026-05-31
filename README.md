@@ -6,7 +6,7 @@
       <h2 align="center">Client Background</h2>
       <strong>Nova Med Solutions</strong> is a pharmaceutical distributor serving hospitals, smaller distributors, resellers, and direct users across Europe and other global markets. The business depends on reliable medicine supply, strong customer relationships, disciplined pricing, and clear visibility into product demand.
       <br><br>
-      The company has collected sales and customer data covering revenue, profit, medication performance, quantity sold, customer segment, buyer type, demographics, and geography over 2022 to 2026 generating revenue over $71m. This analysis turns the operational data into a stakeholder-ready view of where the company is growing, where margin pressure exists, and which customer and market segments deserve more commercial focus.
+      The company has collected sales and customer data covering revenue, profit, medication performance, quantity sold, customer segment, buyer type, demographics, and geography over <strong>2022 to 2026 generating revenue over $71m.</strong> This analysis turns the operational data into a stakeholder-ready view of where the company is growing, where margin pressure exists, and which customer and market segments deserve more commercial focus.
       <br><br>
       Reporting for commercial and operations stakeholders, this project focuses on improving revenue visibility, profitability, reseller retention, customer engagement, and market expansion decisions.
       <h3>Northstar Metrics</h3>
