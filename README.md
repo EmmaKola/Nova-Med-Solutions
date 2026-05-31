@@ -156,7 +156,6 @@
       <ul>
         <li>The top portfolio is commercially healthy because revenue is distributed across multiple strong products.</li>
         <li>This gives Nova Med Solutions flexibility: the business can defend several high-value products rather than relying on one flagship medication.</li>
-        <li>The next step is to compare these revenue leaders against margin and volume to avoid over-prioritizing products that sell well but convert profit less efficiently.</li>
       </ul>
     </td>
   </tr>
@@ -178,7 +177,7 @@
       <ul>
         <li>Hydrochlorothiazide, Fluticasone, Amoxicillin, Montelukast, and Warfarin sit at the lower end of revenue performance, ranging from <strong>$0.76M</strong> for Hydrochlorothiazide to <strong>$0.23M</strong> for Warfarin.</li>
         <li>Hydrochlorothiazide, Montelukast, and Amoxicillin show stronger unit demand than their revenue ranking suggests, with demand around <strong>7.5K to 7.6K</strong> compared with Doxycycline and Ergocalciferol at about <strong>7.1K</strong>.</li>
-        <li>Doxycycline leads revenue but does not lead quantity sold; Lisinopril leads quantity sold at approximately <strong>11.1K</strong>, about <strong>36%</strong> above Doxycycline, which points to a pricing, margin, or product-mix difference.</li>
+        <li><strong>Doxycycline leads revenue but does not lead quantity sold; Lisinopril leads quantity sold at approximately </strong><strong>11.1K</strong>, about <strong>36%</strong> above Doxycycline, which points to a pricing, margin, or product-mix difference.</li>
       </ul>
     </td>
     <td width="480" valign="top">
@@ -253,7 +252,7 @@
       <ul>
         <li>Aspirin shows tighter alignment between revenue and profit.</li>
         <li>This indicates stable cost structure, predictable demand, and stronger profit conversion at a margin of <strong>0.98</strong>.</li>
-        <li>Stakeholders should consider whether Aspirin can be scaled through reseller incentives or targeted demand generation while protecting the <strong>0.98</strong> margin profile.</li>
+        <li><strong>Stakeholders should consider whether Aspirin can be scaled through reseller incentives or targeted demand generation while protecting the</strong> <strong>0.98</strong> margin profile.</li>
       </ul>
     </td>
   </tr>
@@ -288,7 +287,7 @@
       <h3>Customer Segment Opportunity</h3>
       <ul>
         <li>The customer base is not evenly monetized. Male customers are currently the strongest demographic revenue engine, peaking at about <strong>$3.3M</strong>.</li>
-        <li>New customers nearly match preferred customers, with <strong>34%</strong> compared with <strong>36%</strong>, which suggests acquisition is working.</li>
+        <li>New customers nearly match preferred customers, with <strong>34%</strong> compared with <strong>36%</strong>, which suggests customer acquisition rate is good.</li>
         <li>The lower frequent-buyer share of <strong>30%</strong> is a warning sign: Nova Med Solutions may be winning customers but not fully converting them into higher-value repeat customers.</li>
       </ul>
     </td>
@@ -327,7 +326,7 @@
       <ul>
         <li>Resellers generate <strong>88%</strong> of total revenue.</li>
         <li>Direct users contribute a much smaller share.</li>
-        <li>This makes reseller retention one of the highest-priority commercial risks.</li>
+        <li>This makes reseller retention one of the highest-priority commercial risk.</li>
       </ul>
     </td>
     <td width="320" valign="top">
@@ -345,12 +344,12 @@
   <tr>
     <td width="960">
       <h3>Customer Story</h3>
-      Nova Med Solutions is highly dependent on reseller channels, which generate <strong>88%</strong> of revenue, and has strong revenue from male customers, including a peak around <strong>$3.3M</strong>. The customer segment mix shows room to improve repeat-purchase value because frequent buyers contribute <strong>30%</strong>, below preferred customers at <strong>36%</strong> and new customers at <strong>34%</strong>. The company should protect reseller relationships first, then use targeted campaigns to increase frequent-buyer contribution and unlock growth from under-penetrated demographic groups.
+      Nova Med Solutions is highly dependent on reseller channels, which generate <strong>88%</strong> of revenue, and has strong revenue from male customers, including a peak around <strong>$3.3M</strong>. The customer segment mix shows room to improve repeat-purchase value because frequent buyers contribute <strong>30%</strong>, below preferred customers at <strong>36%</strong> and new customers at <strong>34%</strong>. <strong>The company should protect reseller relationships first, then use targeted campaigns to increase frequent-buyer contribution and unlock growth from under-penetrated demographic groups.</strong>
     </td>
   </tr>
 </table>
 
-<h1 align="center">Geographic Results</h1>
+<h1 align="center">Geographical Insights</h1>
 
 <table align="center">
   <tr align="center">
