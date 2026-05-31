@@ -77,7 +77,7 @@
   <tr>
     <td width="960">
       <h3>Executive Takeaway</h3>
-      The business is profitable when demand is strong, but revenue momentum is uneven. The immediate opportunity is to use historical sales peaks to improve forecasting, campaign timing, and stock planning, while investigating why February underperforms so sharply. This gives stakeholders a clearer path: preserve the current cost discipline, then improve the predictability of demand.
+      The business is profitable when demand is strong, but revenue momentum is uneven. The high performing mobth with sales peaks should be leveraged to improve forecasting, campaign timing, and stock planning, while investigating why February underperforms so sharply.
     </td>
   </tr>
 </table>
@@ -135,7 +135,7 @@
       </ul>
     </td>
     <td width="480" valign="top">
-      <h3>Portfolio Implication</h3>
+      <h3>Perfomance Insight</h3>
       <ul>
         <li>The top portfolio is commercially healthy because revenue is distributed across multiple strong products.</li>
         <li>This gives Nova Med Solutions flexibility: the business can defend several high-value products rather than relying on one flagship medication.</li>
