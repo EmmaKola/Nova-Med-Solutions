@@ -135,7 +135,7 @@
       </ul>
     </td>
     <td width="480" valign="top">
-      <h3>Perfomance Insight</h3>
+      <h3>Performance Insight</h3>
       <ul>
         <li>The top portfolio is commercially healthy because revenue is distributed across multiple strong products.</li>
         <li>This gives Nova Med Solutions flexibility: the business can defend several high-value products rather than relying on one flagship medication.</li>
@@ -148,7 +148,7 @@
 <table align="center">
   <tr align="center">
     <td width="960" valign="top">
-      <h3>Bottom 5 Drugs by Revenue</h3>
+      <h3>Warfarin Delivers the Lowest Revenue</h3>
       <img width="520" alt="Bottom 5 drugs by revenue" src="reports/figures/bottom-5-drugs.png">
     </td>
   </tr>
