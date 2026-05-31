@@ -160,15 +160,14 @@
       <h3>Low-Revenue Products</h3>
       <ul>
         <li>Hydrochlorothiazide, Fluticasone, Amoxicillin, Montelukast, and Warfarin sit at the lower end of revenue performance.</li>
-        <li>However, Hydrochlorothiazide, Montelukast, and Amoxicillin show stronger unit demand than their revenue ranking suggests.</li>
-        <li>Doxycycline leads revenue but does not lead quantity sold, which points to a pricing, margin, or product-mix difference.</li>
+        <li>However, Hydrochlorothiazide, Montelukast, and Amoxicillin show stronger unit demand than their revenue ranking suggests. They have higher demand of 7.5k - 7.6k comapred to Doxycycline and Ergocalciferol that contributes highest to revenue with lesser demand of 7.1k </li>
+        <li>Doxycycline leads revenue but does not lead quantity sold <strong>(Lisinopril leads quatity sold by 11.1k about 36% over Doxycycline)</strong> which points to a pricing, margin, or product-mix difference.</li>
       </ul>
     </td>
     <td width="480" valign="top">
       <h3>Demand vs Revenue Gap</h3>
       <ul>
-        <li>Low revenue does not always mean weak demand. Some products may sell in high volume but fail to convert demand into enough revenue.</li>
-        <li>Hydrochlorothiazide, Montelukast, and Amoxicillin should be reviewed for pricing, discounting, package size, procurement cost, or channel mix.</li>
+        <li>Hydrochlorothiazide, Montelukast, and Amoxicillin have hight quantity demand about 7.5k but in the locwest revenue portfolio, they should be reviewed for pricing, discounting, package size, procurement cost, or channel mix.</li>
         <li>The commercial team should separate "high-demand products" from "high-revenue products" so pricing decisions are based on margin opportunity, not only sales volume.</li>
       </ul>
     </td>
