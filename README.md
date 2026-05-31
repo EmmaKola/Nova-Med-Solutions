@@ -89,9 +89,9 @@
 <table align="center">
   <tr>
     <td width="960">
-      The available project information describes a Power BI-led analysis using sales and customer data. The dataset includes revenue, profit, medication performance, quantity sold, customer demographics, buyer type, customer segment, and country-level sales performance.
+      The project analysis was carried out using Power BI as the Business intelligence tool. The dataset consist of several metrics that includes; revenue, profit, medication performance, quantity sold, customer demographics, buyer type, customer segment, and country-level sales performance.
       <br><br>
-      The workflow followed a standard analytics process: data collection, cleaning, ETL, Power BI modelling, DAX/KPI creation, dashboard design, and insight reporting.
+      The workflow followed this analytics process: data collection, cleaning, ETL, Power BI modelling, DAX/KPI creation, dashboard design, and insight reporting.
     </td>
   </tr>
 </table>
