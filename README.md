@@ -55,17 +55,17 @@
 <table align="center">
   <tr>
     <td width="480" valign="top">
-      <h3>What the Chart Shows</h3>
+      <h3>Revenue and Profit Growth</h3>
       <ul>
         <li>Revenue and profit move closely together, which suggests profit is strongly tied to sales volume.</li>
-        <li>The year is not evenly paced. January, July, and September show stronger performance, while February drops sharply.</li>
         <li>The gap between revenue and profit appears consistent, meaning cost control is relatively stable at the total-business level.</li>
+        <li>Nova Med Solutions does not appear to have a company-wide cost-control crisis; the stronger issue is how consistently demand is being generated across the year.</li>
       </ul>
     </td>
     <td width="480" valign="top">
-      <h3>Stakeholder Interpretation</h3>
+      <h3>Quarterly Insight</h3>
       <ul>
-        <li>Nova Med Solutions does not appear to have a major company-wide cost-control crisis, but it does have a demand consistency challenge.</li>
+        <li>The year is not evenly paced. January, July, and September show stronger performance, while February drops sharply.</li>
         <li>The February dip should be investigated because it may reflect weak post-peak demand, inventory availability, seasonality, or campaign timing.</li>
         <li>Planning should focus on smoothing low months while preparing inventory and commercial activity around proven peak periods.</li>
       </ul>
@@ -127,7 +127,7 @@
 <table align="center">
   <tr>
     <td width="480" valign="top">
-      <h3>What the Charts Show</h3>
+      <h3>Revenue Concentration</h3>
       <ul>
         <li>Doxycycline, Ergocalciferol, and Lisinopril form the strongest revenue base.</li>
         <li>Clonazepam and Ezetimibe follow closely, creating a balanced top-five portfolio.</li>
@@ -135,7 +135,7 @@
       </ul>
     </td>
     <td width="480" valign="top">
-      <h3>Business Insight</h3>
+      <h3>Portfolio Implication</h3>
       <ul>
         <li>The top portfolio is commercially healthy because revenue is distributed across multiple strong products.</li>
         <li>This gives Nova Med Solutions flexibility: the business can defend several high-value products rather than relying on one flagship medication.</li>
@@ -147,13 +147,9 @@
 
 <table align="center">
   <tr align="center">
-    <td width="480" valign="top">
+    <td width="960" valign="top">
       <h3>Bottom 5 Drugs by Revenue</h3>
-      <img width="420" alt="Bottom 5 drugs by revenue" src="reports/figures/bottom-5-drugs.png">
-    </td>
-    <td width="480" valign="top">
-      <h3>Top and Bottom Drugs by Quantity Sold</h3>
-      <img width="460" alt="Top and bottom drugs by quantity sold" src="reports/figures/top-and-bottom-drugs-quantity.png">
+      <img width="520" alt="Bottom 5 drugs by revenue" src="reports/figures/bottom-5-drugs.png">
     </td>
   </tr>
 </table>
@@ -161,7 +157,7 @@
 <table align="center">
   <tr>
     <td width="480" valign="top">
-      <h3>What the Charts Show</h3>
+      <h3>Low-Revenue Products</h3>
       <ul>
         <li>Hydrochlorothiazide, Fluticasone, Amoxicillin, Montelukast, and Warfarin sit at the lower end of revenue performance.</li>
         <li>However, Hydrochlorothiazide, Montelukast, and Amoxicillin show stronger unit demand than their revenue ranking suggests.</li>
@@ -169,7 +165,7 @@
       </ul>
     </td>
     <td width="480" valign="top">
-      <h3>Business Insight</h3>
+      <h3>Demand vs Revenue Gap</h3>
       <ul>
         <li>Low revenue does not always mean weak demand. Some products may sell in high volume but fail to convert demand into enough revenue.</li>
         <li>Hydrochlorothiazide, Montelukast, and Amoxicillin should be reviewed for pricing, discounting, package size, procurement cost, or channel mix.</li>
@@ -178,6 +174,11 @@
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <h3>Top and Bottom Drugs by Quantity Sold</h3>
+  <img width="850" alt="Top and bottom drugs by quantity sold" src="reports/figures/top-and-bottom-drugs-quantity.png">
+</div>
 
 <h1 align="center">Profit Margin and Sales Efficiency</h1>
 
@@ -188,7 +189,7 @@
 <table align="center">
   <tr>
     <td width="480" valign="top">
-      <h3>What the Chart Shows</h3>
+      <h3>Margin Leaders</h3>
       <ul>
         <li>Aspirin and Omeprazole show the strongest margin efficiency, with profit margins close to 0.98.</li>
         <li>Escitalopram also performs strongly from a profitability standpoint.</li>
@@ -196,7 +197,7 @@
       </ul>
     </td>
     <td width="480" valign="top">
-      <h3>Business Insight</h3>
+      <h3>Profit Efficiency Opportunity</h3>
       <ul>
         <li>Nova Med Solutions has two different product stories: products that drive revenue and products that convert sales into profit most efficiently.</li>
         <li>Aspirin should be treated as a margin-protection and growth candidate because each additional sale appears to convert strongly into profit.</li>
@@ -222,7 +223,7 @@
 <table align="center">
   <tr>
     <td width="480" valign="top">
-      <h3>Doxycycline Story</h3>
+      <h3>Doxycycline Margin Pressure</h3>
       <ul>
         <li>Doxycycline has clear sales spikes in early-year, mid-year, and late-year periods.</li>
         <li>Revenue and profit move together, but the visible gap suggests costs are taking a meaningful share of revenue.</li>
@@ -230,7 +231,7 @@
       </ul>
     </td>
     <td width="480" valign="top">
-      <h3>Aspirin Story</h3>
+      <h3>Aspirin Profit Stability</h3>
       <ul>
         <li>Aspirin shows tighter alignment between revenue and profit.</li>
         <li>This indicates stable cost structure, predictable demand, and stronger profit conversion.</li>
@@ -258,7 +259,7 @@
 <table align="center">
   <tr>
     <td width="480" valign="top">
-      <h3>What the Charts Show</h3>
+      <h3>Demographic Revenue Pattern</h3>
       <ul>
         <li>Male customers contribute the highest revenue, with a notable peak around $3.3M in May.</li>
         <li>Female customers and the Other category follow similar patterns but at lower levels.</li>
@@ -266,7 +267,7 @@
       </ul>
     </td>
     <td width="480" valign="top">
-      <h3>Business Insight</h3>
+      <h3>Customer Segment Opportunity</h3>
       <ul>
         <li>The customer base is not evenly monetized. Male customers are currently the strongest demographic revenue engine.</li>
         <li>New customers nearly match preferred customers, which suggests acquisition is working, but retention and repeat purchase may need more focus.</li>
@@ -349,7 +350,7 @@
 <table align="center">
   <tr>
     <td width="480" valign="top">
-      <h3>What the Charts Show</h3>
+      <h3>Market Concentration</h3>
       <ul>
         <li>Canada is the strongest market, generating approximately $32M in revenue.</li>
         <li>Australia contributes approximately $15M, making it a strong secondary market.</li>
@@ -357,7 +358,7 @@
       </ul>
     </td>
     <td width="480" valign="top">
-      <h3>Business Insight</h3>
+      <h3>Expansion Opportunity</h3>
       <ul>
         <li>The geographic revenue base is uneven. Canada is the clear anchor market, while the United States appears underdeveloped.</li>
         <li>The country drilldown suggests Preferred Customers are important to high-performing market revenue.</li>
