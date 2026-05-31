@@ -29,8 +29,6 @@ The project focuses on the following objectives:
 * Build an interactive Power BI dashboard for stakeholder reporting.
 * Prepare recommendations that can guide commercial and operational improvements.
 
-![Project objectives](reports/figures/project-objectives.png)
-
 # Executive Summary
 
 ### Revenue and Profit Performance
