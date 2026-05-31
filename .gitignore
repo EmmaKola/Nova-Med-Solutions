@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# Power BI temporary/cache files
+*.pbit~
+*.pbix~
+
+# Local data extracts that should be reviewed before publishing
+data/raw/
+data/private/
