@@ -440,7 +440,6 @@
   <tr>
     <td width="960">
       <ul>
-        <li>Portfolio case study: <a href="https://emmakola.github.io/project.html">Nova Med Solutions</a></li>
         <li>GitHub profile: <a href="https://github.com/EmmaKola">EmmaKola</a></li>
       </ul>
     </td>
