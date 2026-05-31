@@ -191,8 +191,8 @@
       <h3>Margin Leaders</h3>
       <ul>
         <li>Aspirin and Omeprazole show the strongest margin efficiency, with profit margins close to 0.98.</li>
-        <li>Escitalopram also performs strongly from a profitability standpoint.</li>
-        <li>Doxycycline is commercially important, but its margin efficiency is weaker than the most efficient products.</li>
+        <li>Escitalopram also performs strongly from a profitability standpoint with a vlaue of 0.96.</li>
+        <li>Doxycycline is commercially important <strong>(Contributes highest revenue of $3.5M)</strong>, but its margin efficiency is weaker than the most efficient products.</li>
       </ul>
     </td>
     <td width="480" valign="top">
