@@ -160,7 +160,7 @@
       <h3>Low-Revenue Products</h3>
       <ul>
         <li>Hydrochlorothiazide, Fluticasone, Amoxicillin, Montelukast, and Warfarin sit at the lower end of revenue performance.</li>
-        <li>However, Hydrochlorothiazide, Montelukast, and Amoxicillin show stronger unit demand than their revenue ranking suggests. They have higher demand of 7.5k - 7.6k comapred to Doxycycline and Ergocalciferol that contributes highest to revenue with lesser demand of 7.1k </li>
+        <li>However, Hydrochlorothiazide, Montelukast, and Amoxicillin show stronger unit demand than their revenue ranking suggests. <strong>They have higher demand of 7.5k - 7.6k comapred to Doxycycline and Ergocalciferol that contributes highest to revenue with lesser demand of 7.1k</strong> </li>
         <li>Doxycycline leads revenue but does not lead quantity sold <strong>(Lisinopril leads quatity sold by 11.1k about 36% over Doxycycline)</strong> which points to a pricing, margin, or product-mix difference.</li>
       </ul>
     </td>
